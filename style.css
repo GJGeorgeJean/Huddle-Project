@@ -30,6 +30,7 @@ nav button {
 }
 
 .container button{
+    
     width: 20rem;
     background-color: var(--Pink);
     }
